@@ -1,30 +1,8 @@
-# track-learning
+# Track Learning.
 
-## Project setup
-```
-npm install
-```
+Add your daily learnigs with all your details and references including source codes for any future references. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Link to the app: https://track-learner-601f1.firebaseapp.com/#/login?redirect=%2F
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# track-your-learnings
