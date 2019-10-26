@@ -20,7 +20,7 @@ export default {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #484848;
   margin-top: 10px;
 }
 .btn {
@@ -30,6 +30,9 @@ export default {
   font-size: 14px;
   cursor: pointer;
   transition: 0.3s;
+}
+h1,h2,h3,h4,h5 {
+    color: #484848;
 
 }
 .add-btn {
@@ -40,7 +43,7 @@ export default {
   background: rgb(165, 141, 231);
 } 
 .search-btn {
-  background: rgb(49, 199, 141);
+  background: #5EC993;
   color: #fff;
 
 }
